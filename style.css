@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  background-color: #68BBE3;
+  color: light black;
+}
+
+#number-input {
+  background-color: white;
+  width:150px;
+}
+
+#guess {
+  border-radius: 4px;
+  background-color: 	orange;
+  color:white;
+  margin-top:10px;
+}
+
+#reset {
+  border-radius: 4px;
+  background-color: 	orange;
+  color:white;
+  margin-top:10px;
+  
+}
